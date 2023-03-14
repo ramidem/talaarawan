@@ -9,9 +9,9 @@ Yet another bullet journal app. But, not really. My intention for this app is to
 - [ ] css 'em up
 
 ### Backend
-- [ ] add tasks
-- [ ] update tasks
-- [ ] remove tasks
+- [x] add tasks
+- [x] update tasks
+- [x] remove tasks
 - [ ] set/change type
 - [ ] save tasks locally on the browser
 - [ ] mvc?
